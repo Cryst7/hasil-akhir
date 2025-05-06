@@ -155,9 +155,9 @@ section.about {
     margin: 0 auto;
     height: 400px;
 }
-#about {
+#about }
   width: 100vw;
-  height: 100vh;       
+  height: 200vh;       
   display: flex;     
   flex-direction: column;
   justify-content: center;
