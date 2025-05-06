@@ -155,7 +155,16 @@ section.about {
     margin: 0 auto;
     height: 400px;
 }
-
+#about {
+  width: 100vw;
+  height: 100vh;       
+  display: flex;     
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  box-sizing: border-box;
+}
 .popup {
     display: none;
     position: fixed;
