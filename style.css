@@ -160,21 +160,21 @@ section.home .btn:hover {
     background: #c7001f;
 }
 
-section.about {
-    font-family: 'Verdana', sans-serif;
-    width: 100%;
-    margin: 0 auto;
-    height: 100%;
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
 }
-#about }
-  height: 100000px;       
-  display: flex;     
+
+#about {
+    font-family: 'Verdana', sans-serif;
+  height: 100dvh;
+  display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 6rem;
+  padding: 2rem;
   box-sizing: border-box;
- display: flex;
 }
 .popup {
     display: none;
