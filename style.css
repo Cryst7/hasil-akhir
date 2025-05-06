@@ -42,7 +42,7 @@ header .logo {
 }
 
 header .navbar {
-    display: flex;
+    display: none;
 }
 
 header .navbar a {
