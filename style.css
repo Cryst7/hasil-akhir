@@ -156,7 +156,6 @@ section.about {
     height: 400px;
 }
 #about }
-  width: 100vw;
   height: 600px;       
   display: flex;     
   flex-direction: column;
