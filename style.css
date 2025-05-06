@@ -150,7 +150,6 @@ section.home .btn:hover {
 
 section.about {
     background: linear-gradient(135deg, #eaf5ff 0%, #858585 100%);
-    padding: 100px 20px;
     font-family: 'Verdana', sans-serif;
     width: 100%;
     margin: 0 auto;
