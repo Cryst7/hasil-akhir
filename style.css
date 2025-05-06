@@ -167,12 +167,12 @@ section.about {
     height: 100%;
 }
 #about }
-  height: 100%;       
+  height: 100000px;       
   display: flex;     
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 2rem;
+  padding: 6rem;
   box-sizing: border-box;
  display: flex;
 }
